@@ -1,2 +1,2 @@
 #!/bin/bash
-echo choice="encrypt decrypt"
+tr '[A-Za-z]' '[N-ZA-Mn-za-m]'
