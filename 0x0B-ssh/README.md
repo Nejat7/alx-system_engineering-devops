@@ -1,3 +1,1 @@
-### `SSH`
-#### Languages used
-* `bash`
+SSH
